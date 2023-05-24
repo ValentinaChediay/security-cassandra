@@ -1,4 +1,4 @@
-package com.spring.securitycassandra.dao
+package com.spring.securitycassandra.repository
 
 import com.spring.securitycassandra.model.User
 import org.springframework.data.repository.reactive.ReactiveCrudRepository

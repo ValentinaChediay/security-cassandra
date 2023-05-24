@@ -1,6 +1,6 @@
 package com.spring.securitycassandra.service
 
-import com.spring.securitycassandra.dao.UserRepository
+import com.spring.securitycassandra.repository.UserRepository
 import com.spring.securitycassandra.model.toUsernamePasswordPrincipal
 import org.springframework.security.core.userdetails.ReactiveUserDetailsService
 import org.springframework.security.core.userdetails.UserDetails
